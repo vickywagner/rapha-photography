@@ -80,7 +80,7 @@ const Navbar = () => {
                     </li>
 
                     <li onClick={handleNav} className='p-4 text-4xl hover:text-gray-500'>
-                        <Link href='/portfolio'>Work</Link>
+                        <Link href='/work'>Work</Link>
                     </li>
 
                     <li onClick={handleNav} className='p-4 text-4xl hover:text-gray-500'>
