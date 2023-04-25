@@ -71,19 +71,19 @@ const Navbar = () => {
             <div onClick={handleNav} className={nav ? 'sm:hidden absolute top-0 left-0 right-0 bottom-0 flex justify-center items-center w-full h-screen bg-black text-center ease-in duration-300' 
                 : 'sm:hidden absolute top-0 left-[-100%] right-0 bottom-0 flex justify-center items-center w-full h-screen bg-black text-center ease-in duration-300'}>
                 <ul>
-                    <li onClick={handleNav} className='p-4 text-4xl hover:text-gray-500'>
+                    <li onClick={handleNav} className='p-4 text-3xl hover:text-gray-500'>
                         <Link href='/'>Home</Link>
                     </li>
 
-                    <li onClick={handleNav} className='p-4 text-4xl hover:text-gray-500'>
+                    <li onClick={handleNav} className='p-4 text-3xl hover:text-gray-500'>
                         <Link href='/#gallery'>Gallery</Link>
                     </li>
 
-                    <li onClick={handleNav} className='p-4 text-4xl hover:text-gray-500'>
+                    <li onClick={handleNav} className='p-4 text-3xl hover:text-gray-500'>
                         <Link href='/work'>Work</Link>
                     </li>
 
-                    <li onClick={handleNav} className='p-4 text-4xl hover:text-gray-500'>
+                    <li onClick={handleNav} className='p-4 text-3xl hover:text-gray-500'>
                         <Link href='/contact'>Contact</Link>
                     </li>
                 </ul>
