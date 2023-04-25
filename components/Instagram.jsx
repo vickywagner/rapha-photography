@@ -21,9 +21,6 @@ const Instagram = () => {
             <InstagramImg socialImg={Img4}/>
             <InstagramImg socialImg={Img5}/>
             <InstagramImg socialImg={Img6}/>
-           
-
-
         </div>
     </div>
   )
