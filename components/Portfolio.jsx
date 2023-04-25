@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import ValleEncantado from "../public/Valle-encantado.JPG"
+import ValleEncantado from "../public/Bari1.JPG"
 import Bari from "../public/bari-3.jpg"
 
 const Portfolio = () => {
