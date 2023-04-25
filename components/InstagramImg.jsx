@@ -1,10 +1,12 @@
 import React from 'react';
 import Image from 'next/image';
 import { FaInstagram } from 'react-icons/fa';
+import Link from 'next/link';
 
 const InstagramImg = ({ socialImg }) => {
   return (
     <div className='relative'>
+      <Link href='https://www.instagram.com/raphaphotography1/'>
         <Image src={socialImg} 
             alt='/' 
             className='w-full h-full'
@@ -16,7 +18,7 @@ const InstagramImg = ({ socialImg }) => {
         <FaInstagram size={30} className='z-10' />
       </p>
       </div>
-
+       </Link>
     </div>
   )
 }
