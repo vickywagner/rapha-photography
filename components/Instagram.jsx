@@ -1,9 +1,10 @@
 import React from 'react';
-import Img1 from "../assets/Thailand.jpg";
-import Img2 from "../assets/beach.jpg";
-import Img3 from "../assets/australia.jpg";
-import Img4 from "../assets/australia2.jpg";
-import Img5 from "../assets/bari-3.jpg";
+import Img1 from "../assets/Bari-91.jpg";
+import Img2 from "../assets/Bari-89.jpg";
+import Img3 from "../assets/bari-57.jpg";
+import Img4 from "../assets/Como-3.jpg";
+import Img5 from "../assets/ROMA.jpg";
+import Img6 from "../assets/Roma2.jpg";
 
 
 import InstagramImg from './InstagramImg';
@@ -19,6 +20,7 @@ const Instagram = () => {
             <InstagramImg socialImg={Img3}/>
             <InstagramImg socialImg={Img4}/>
             <InstagramImg socialImg={Img5}/>
+            <InstagramImg socialImg={Img6}/>
            
 
 
