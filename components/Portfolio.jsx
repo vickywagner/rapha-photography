@@ -1,6 +1,6 @@
 import React from 'react';
 import Image from 'next/image';
-import ValleEncantado from "../public/Bari1.JPG"
+import Blest from "../public/blest-5.jpg"
 import Bari from "../public/bari-3.jpg"
 
 const Portfolio = () => {
@@ -48,15 +48,16 @@ const Portfolio = () => {
             height='217'
           />
         </div>
+
         <div className='w-full h-full'>
           <Image
-            src={ValleEncantado}
+            src={Blest}
             alt='/'
             width='215'
             height='217'
           />
         </div>
-
+        
         <div className='w-full h-full'>
           <Image
             src={Bari}
