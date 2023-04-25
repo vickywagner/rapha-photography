@@ -36,9 +36,8 @@ const Navbar = () => {
                     {/* {window.scrollY >=90  //NO FUNCIONA WINDOW XQ NO ESTA DEFINIDO
                         ? <Image src={LogoNegro} alt='Logo Image' style={{width: '10rem'}}/>
                         : <Image src={LogoBlanco} alt='Logo Image' style={{width: '10rem'}}/>} */}
-                 { !nav
-                        ? <Image src={LogoNegro} alt='Logo Image' style={{width: '10rem'}}/>
-                        : <Image src={LogoBlanco} alt='Logo Image' style={{width: '10rem'}}/>}
+               <Image src={LogoNegro} alt='Logo Image' style={{width: '10rem'}}/>
+                 
                 </Link>
     
             <ul style={{color: `${textColor}`}} className='hidden sm:flex'>
