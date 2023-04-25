@@ -3,8 +3,8 @@ import Img1 from "../public/Bari-91.jpg"
 import Img2 from "../public/Bari-89.jpg"
 import Img3 from "../public/bari-57.jpg"
 import Img4 from "../public/Como-3.jpg"
-import Img5 from "../public/ROMA.JPG"
-import Img6 from "../public/Roma2.JPG"
+import Img5 from "../public/Bari-48.jpg"
+import Img6 from "../public/Bari-59.jpg"
 
 
 import InstagramImg from './InstagramImg';
