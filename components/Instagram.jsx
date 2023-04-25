@@ -1,10 +1,10 @@
 import React from 'react';
-import Img1 from "../assets/Bari-91.jpg"
-import Img2 from "../assets/Bari-89.jpg"
-import Img3 from "../assets/bari-57.jpg"
-import Img4 from "../assets/Como-3.jpg"
-import Img5 from "../assets/ROMA.JPG"
-import Img6 from "../assets/Roma2.JPG"
+import Img1 from "../public/Bari-91.jpg"
+import Img2 from "../public/Bari-89.jpg"
+import Img3 from "../public/bari-57.jpg"
+import Img4 from "../public/Como-3.jpg"
+import Img5 from "../public/ROMA.JPG"
+import Img6 from "../public/Roma2.JPG"
 
 
 import InstagramImg from './InstagramImg';

@@ -1,7 +1,7 @@
 import React from 'react';
 import Image from 'next/image';
-import ValleEncantado from "../assets/Valle-encantado.JPG"
-import Bari from "../assets/bari-3.jpg"
+import ValleEncantado from "../public/Valle-encantado.JPG"
+import Bari from "../public/bari-3.jpg"
 
 const Portfolio = () => {
   return (
